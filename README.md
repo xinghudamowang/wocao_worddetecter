@@ -23,13 +23,20 @@
 
 ---
 
-```>>> from wocao import detecter```
+* ```>>> from wocao import detecter```
 
-```>>> worddict = detecter.WorDict()```
 
-详细用例请见test.py模块。
+* ```>>> worddict = detecter.WorDict()```
 
-可以将save_to_file方法保存的字典作为其它分词器的用户自定义字典。
+
+* 详细用例请见test.py模块。
+
+
+* 可以将save_to_file方法保存的字典作为其它分词器的用户自定义字典。
+
+[这是github，欢迎fork欢迎star。](https://github.com/xinghudamowang/wocao_worddetecter.git)
+
+* https://github.com/xinghudamowang/wocao_worddetecter.git
 
 
 
