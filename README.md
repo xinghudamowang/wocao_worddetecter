@@ -23,6 +23,14 @@
 
 ---
 
+###      安装
+
+* ```$ cd wocao_worddetecter```
+
+* ```$ python setup.py install```
+
+  ### 使用
+
 * ```>>> from wocao import detecter```
 
 
@@ -33,10 +41,5 @@
 
 
 * 可以将save_to_file方法保存的字典作为其它分词器的用户自定义字典。
-
-[这是github，欢迎fork欢迎star。](https://github.com/xinghudamowang/wocao_worddetecter.git)
-
-* https://github.com/xinghudamowang/wocao_worddetecter.git
-
 
 
