@@ -29,7 +29,7 @@
 
 * ```$ python setup.py install```
 
-  ### 使用
+###      使用
 
 * ```>>> from wocao import detecter```
 
